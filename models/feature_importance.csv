@@ -1,0 +1,62 @@
+feature,mean_abs_shap,feature_label
+num__sessions_last_90d,0.09158415969197994,Web sessions (90d)
+num__recency_days,0.056969129095476724,Days since last order
+num__orders_last_90d,0.043338260364456246,Orders in last 90 days
+num__avg_session_minutes,0.03995011832897173,Session length
+num__sessions_prev_90d,0.03917610775465794,Web sessions (prior 90d)
+num__order_trend,0.019907651910337856,Order trend (90d vs prior)
+num__tenure_days,0.01828364064552615,Customer tenure
+num__frequency_365d,0.014258171125556907,Orders in last year
+num__monetary_365d,0.011125939358464855,Spend in last year
+num__session_trend,0.010327649940148105,Web-session trend
+num__lifetime_orders,0.009860410813145312,Lifetime orders
+num__orders_prev_90d,0.009546193784453687,Orders in prior 90 days
+num__avg_discount_pct,0.004647078073482684,Average discount
+num__avg_order_value,0.004608887572244412,Average order value
+num__late_delivery_rate,0.004399968230756147,Late-delivery rate
+num__return_rate,0.004046867664784774,Return rate
+num__distinct_categories,0.003990332767378847,Categories purchased
+num__avg_shipping_days,0.0035944888841124185,Average delivery days
+num__avg_satisfaction,0.003266994328576788,Support satisfaction
+cat__acquisition_channel_Social Media,0.0031014502540679203,Acquisition Channel: Social Media
+num__cod_share,0.002433260218464183,Cash-on-delivery share
+num__age,0.0024037401393368777,Age
+num__low_sat_tickets,0.001967910076902576,Low-satisfaction tickets
+cat__acquisition_channel_Referral,0.001590113916863333,Acquisition Channel: Referral
+num__cancel_rate,0.0015180626636187818,Cancellation rate
+cat__acquisition_channel_Organic,0.0014295731097990147,Acquisition Channel: Organic
+cat__gender_Male,0.0013932376239753701,Gender: Male
+num__missingindicator_avg_satisfaction,0.0013592198318459858,No support tickets
+num__tickets_180d,0.0011625019714235308,Support tickets (180d)
+cat__favourite_category_Electronics,0.0011578889622155275,Favourite Category: Electronics
+cat__gender_Female,0.001041285948348961,Gender: Female
+cat__favourite_category_Home & Kitchen,0.0010217441029994258,Favourite Category: Home & Kitchen
+cat__state_Uttar Pradesh,0.0007809168470193953,State: Uttar Pradesh
+cat__favourite_category_Sports & Fitness,0.0007758375201196273,Favourite Category: Sports & Fitness
+cat__state_Telangana,0.0007612928433464452,State: Telangana
+cat__favourite_category_Fashion,0.000746654302594587,Favourite Category: Fashion
+cat__state_Gujarat,0.0006995621850824654,State: Gujarat
+cat__acquisition_channel_Paid Search,0.0006178502789892259,Acquisition Channel: Paid Search
+cat__state_Tamil Nadu,0.0005747139765828498,State: Tamil Nadu
+cat__state_Delhi,0.0005700954763568539,State: Delhi
+cat__state_Maharashtra,0.0005281629658599219,State: Maharashtra
+cat__state_Karnataka,0.0005166510088971178,State: Karnataka
+num__unresolved_tickets,0.0005008549338442838,Unresolved tickets
+cat__state_Kerala,0.000455405276484693,State: Kerala
+cat__favourite_category_Grocery,0.0003729795879830313,Favourite Category: Grocery
+cat__acquisition_channel_Email,0.00035988853747907274,Acquisition Channel: Email
+cat__state_Madhya Pradesh,0.0003028950122559545,State: Madhya Pradesh
+cat__state_Rajasthan,0.00026142068747248134,State: Rajasthan
+cat__acquisition_channel_Affiliate,0.00022582689216388868,Acquisition Channel: Affiliate
+cat__favourite_category_Toys,0.0002134831395883836,Favourite Category: Toys
+cat__state_West Bengal,0.00021041359230034894,State: West Bengal
+cat__favourite_category_Beauty,0.0002086113440421938,Favourite Category: Beauty
+cat__state_Odisha,0.00019788848282789267,State: Odisha
+cat__favourite_category_Books,0.00015367118417916454,Favourite Category: Books
+cat__state_Punjab,0.00012650186534019585,State: Punjab
+cat__state_Bihar,0.00011333809053007639,State: Bihar
+cat__state_Assam,9.369928731538311e-05,State: Assam
+num__missingindicator_age,7.01445379617376e-05,missingindicator_age
+cat__gender_Other,3.458960026311542e-05,Gender: Other
+num__missingindicator_avg_shipping_days,0.0,missingindicator_avg_shipping_days
+num__missingindicator_late_delivery_rate,0.0,missingindicator_late_delivery_rate

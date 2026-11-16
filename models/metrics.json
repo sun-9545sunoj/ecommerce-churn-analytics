@@ -1,0 +1,44 @@
+{
+  "best_model": "Random Forest",
+  "snapshot_date": "2026-06-30",
+  "scoring_date": "2026-09-30",
+  "n_train": 5256,
+  "n_test": 1315,
+  "churn_rate": 0.4384416374980977,
+  "threshold": 0.45000000000000007,
+  "test_roc_auc": 0.8594989502754644,
+  "test_pr_auc": 0.8597822752108212,
+  "precision": 0.7397959183673469,
+  "recall": 0.7538994800693241,
+  "f1": 0.7467811158798283,
+  "confusion_matrix": {
+    "tn": 585,
+    "fp": 153,
+    "fn": 142,
+    "tp": 435
+  },
+  "top_decile_lift": 2.2790294627383014,
+  "model_comparison": [
+    {
+      "model": "Random Forest",
+      "cv_roc_auc": 0.8478,
+      "cv_roc_auc_std": 0.0048,
+      "test_roc_auc": 0.8595,
+      "test_pr_auc": 0.8598
+    },
+    {
+      "model": "XGBoost",
+      "cv_roc_auc": 0.8416,
+      "cv_roc_auc_std": 0.0048,
+      "test_roc_auc": 0.8632,
+      "test_pr_auc": 0.8638
+    },
+    {
+      "model": "Logistic Regression",
+      "cv_roc_auc": 0.8402,
+      "cv_roc_auc_std": 0.007,
+      "test_roc_auc": 0.8569,
+      "test_pr_auc": 0.8502
+    }
+  ]
+}
