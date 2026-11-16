@@ -1,0 +1,10 @@
+# Minimal dependencies for the deployed Streamlit app (Streamlit Community Cloud
+# picks up this file because it sits next to the entrypoint).
+# scikit-learn / xgboost are pinned to the versions the model was trained with.
+streamlit==1.51.0
+pandas==2.3.3
+numpy==2.3.5
+plotly==6.3.0
+scikit-learn==1.7.2
+xgboost==3.3.0
+joblib==1.5.2
