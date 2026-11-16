@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Raw data is reproducible from a fixed seed: `make data`
+data/raw/
+
+# Large intermediate artefacts
+models/shap_sample.pkl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

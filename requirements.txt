@@ -1,0 +1,18 @@
+# Full pipeline (data generation, PostgreSQL, ML, charts, notebooks, app)
+pandas==2.3.3
+numpy==2.3.5
+faker==40.54.0
+sqlalchemy==2.0.43
+psycopg[binary]==3.3.9
+python-dotenv==1.1.0
+scikit-learn==1.7.2
+xgboost==3.3.0
+shap==0.52.0
+joblib==1.5.2
+matplotlib==3.10.6
+seaborn==0.13.2
+plotly==6.3.0
+streamlit==1.51.0
+nbformat==5.10.4
+nbconvert==7.16.6
+ipykernel==6.31.0
